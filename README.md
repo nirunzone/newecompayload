@@ -327,3 +327,7 @@ The easiest way to deploy your project is to use [Payload Cloud](https://payload
 ## Questions
 
 If you have any issues or questions, reach out to us on [Discord](https://discord.com/invite/payload) or start a [GitHub discussion](https://github.com/payloadcms/payload/discussions).
+<<<<<<< HEAD
+=======
+"# newecompayload" 
+>>>>>>> d34c9e8c90765ff2e8eda4c93fef32496111354a
